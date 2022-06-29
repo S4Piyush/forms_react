@@ -1,0 +1,48 @@
+.fromcss
+{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;}
+td 
+{
+    border: 1px solid pink;
+    color: cadetblue;
+    font-weight: bold;
+}
+input
+{
+
+    width: 95%;
+    height: 35%;}
+
+.s1
+{
+ margin-top: 20px;
+    width: 70px;color: red;
+     background-color: pink;
+
+   
+}
+.s1:hover
+{
+    background-color: red;
+    color: pink;
+}
+.s2
+{
+    width: 120px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left:350px;
+   
+    
+}
+.printtablecss
+{
+    border: 3px;
+}
+
+
